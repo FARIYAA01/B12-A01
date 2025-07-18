@@ -87,3 +87,42 @@ button {
 
 }
 
+/*SECOND PART*/
+
+.header-second {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Raleway", sans-serif;
+  margin-right: 150px;
+  margin-left: 139px;
+  margin-top: 10%;
+
+}
+
+.preview h2 {
+  font-size: 42px;
+  color: #252432;
+  margin-top: 120.5px;
+  margin-bottom: 200.5;
+  margin-right: 100px;
+}
+
+.preview p {
+  color: #25243289;
+
+  margin-bottom: 125.5;
+  margin-right: 103px;
+}
+
+img {
+  margin-top: 50px;g
+  max-width: 100%;
+  border-radius: 48px;
+  margin-right: 69px;
+  
+}
+
+section {
+  margin-bottom: 4rem;
+}
