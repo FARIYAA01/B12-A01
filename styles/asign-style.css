@@ -126,3 +126,43 @@ img {
 section {
   margin-bottom: 4rem;
 }
+
+/* THIRD Section */
+.user-survey {
+  background-color: #e7ebfc;
+  padding: 3rem 2rem;
+  border-radius: 20px;
+  margin: 3rem auto;
+  max-width: 1100px;
+  text-align: center;
+}
+
+.user-survey h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: #252432;
+  font-family: "Raleway", sans-serif;
+}
+
+.surveys {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  font-family: "Inter", sans-serif;
+}
+
+.survey h1 {
+  font-size: 3.5rem;          
+  font-weight: 800;           
+  color: #4f46e5;
+  margin: 0;                  
+  line-height: 1.2;          
+}
+.survey p {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #666;
+  margin-top: 0.3rem;         
+  line-height: 1.2;
+}
