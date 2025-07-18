@@ -346,3 +346,61 @@ color: #000000;
     .right-form button:hover {
       background-color: #357ab8;
     }
+    
+
+/*SEVENTH */
+.footer-last {
+
+  width: 100%;
+  max-width: 1440px;
+  background: #c6c5ef1d;
+  text-align: center;
+  padding: 40px 20px 50px; 
+  margin: 60px auto 0;
+  box-sizing: border-box;
+
+}
+
+.last-logo {
+  font-size: 6rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin: 20px 0 10px; 
+  color: #4E47FF;
+  font-family:  "Raleway", sans-serif;;
+
+}
+
+
+
+.footer-last p {
+  font-size: 1rem;
+  color: #8987A1;
+  margin-bottom: 20px;
+}
+
+
+.footer-last nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px; 
+  margin-bottom: 30px; 
+
+}
+
+.footer-last nav a {
+  color: #8987A1;
+  text-decoration: none;
+  font-weight: 500;
+  transition: text-decoration 0.3s ease;
+}
+
+footer-last nav a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+
+
